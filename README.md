@@ -6,7 +6,7 @@
 **+15861842974**  
 **anilena232@mail.ru**  
 **Discord: @elenaanisimova**  
-[Github](https://github.com/ElenaAnisimova/).
+[Github](https://github.com/ElenaAnisimova/)
 
 
 #### About me
