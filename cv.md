@@ -10,7 +10,7 @@
 
 
 #### About me
-Computer science and programming is all new to me, so I am eager to participate in this course and learn something new. 
+Computer science and programming is all new to me, so I am eager to participate in this course and learn something new.   
 I hope the course will help me to gain necessary skills and knowledge to grow in Frontend development.
 
 #### Skills
