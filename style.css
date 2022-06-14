@@ -50,7 +50,7 @@ h2 {
         border-radius: 50%;
          box-shadow: 0 0 7px #666;
     }
-
+footer { background-color: var(--main-color-blue);}
  @media (max-width: 768px) 
  {
     .section {
@@ -119,6 +119,8 @@ padding: 10px;
         align-items: center;
         list-style: none;
         font-weight: bold;
+        height: 65px;
+        box-shadow: 0 0 7px #666;
     }
     .code-block
     {
