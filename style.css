@@ -1,0 +1,173 @@
+
+   :root {
+    --main-color-lilac: #e196ff91;
+    --main-color-blue: #96DBFF;
+    --main-color-grey: #5e5b5b;   
+  }
+
+ 
+.main-block {
+	width: 950px; 
+	margin: 30px auto;
+    box-shadow: 0 0 50px rgba(102, 102, 102, 0.377); 
+}
+   
+  
+   body {
+    font-family: 'Myanmar Text', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--main-color-grey);
+      }
+
+  h1
+  {font-family: 'Myanmar Text', sans-serif;
+    font-size: 25px;
+    line-height: 1; 
+    text-align: center;
+        color: var(--main-color-grey)
+}
+.job-title {
+    font-size: 22px;
+    text-align: center;
+}
+h2 {
+    font-size: 22px; 
+    padding-left: 10px;
+}
+
+.text-link a {
+    color: var(--main-color-grey);
+    text-decoration: none;  
+    transition: color 0.4s;
+  }
+  .text-link a:hover {
+    color: #0c2586;
+    font-weight: bold;
+  }
+
+    .my-avatar {
+        border-radius: 50%;
+         box-shadow: 0 0 7px #666;
+    }
+
+ @media (max-width: 768px) 
+ {
+    .section {
+      width: 100%;
+    }
+  }
+
+   html {
+    scroll-behavior: smooth; 
+  }
+
+   * {
+    box-sizing: border-box;
+  }
+  
+  header {
+    background-color: var(--main-color-blue);
+    box-shadow: 0 0 7px #666;
+    
+  }
+
+  .rsschool-logo {margin-right: 20px;} 
+  
+  
+  body {
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.two-parts {
+    display: flex;
+    width: 950px;
+}
+  
+  
+.aside-left-part {
+padding: 10px;
+ 
+}
+
+.right-part {
+        background-color: var(--main-color-lilac);
+    padding: 35px;
+
+    }
+
+ .container {
+        max-width: 1440px;
+        margin: 0 auto;
+      }
+
+     
+ .nav-list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+              }
+
+.footer-list { 
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+        font-weight: bold;
+    }
+    .code-block
+    {
+        background-color: var(--main-color-blue);
+        width: 450px;
+        height: 180px;
+            }
+
+.aboutme {
+    margin: 0 30px 20px 30px;
+}
+
+.section-title-left {
+    background-color: var(--main-color-lilac);
+    padding-top: 7px;
+    box-shadow: 0 0 7px #666;
+}
+
+.section-title-right {
+    background-color: #fff;
+    width: 600px; 
+    height: 33px;
+      padding-top: 5px;
+      box-shadow: 0 0 7px #666;
+      }
+       
+.nav-link {
+ padding: 0 20px;
+ line-height: 70px;
+ text-decoration: none;
+ transition: 3s;                       
+              }
+              
+.nav-item a {
+      color: var(--main-color-grey);
+  font-weight: bold;
+  text-decoration: none;  
+  transition: color 0.4s;
+}
+.nav-item a:hover {
+  color: #0c2586;
+  font-size: larger;
+  }  
+
+ .text-image  {
+    filter: drop-shadow(5px 5px 6px rgba(0,0,0,0.3));
+    transition: 0.1s; 
+   }
+   .text-image:hover {
+    transform: scale(1.03); 
+   }
+
